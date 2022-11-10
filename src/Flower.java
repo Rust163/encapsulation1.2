@@ -33,7 +33,6 @@ public class Flower {
         }
     }
 
-
     public String getFlower() {
         return flower;
     }
@@ -53,7 +52,6 @@ public class Flower {
     public void setCountry(String country) {
         this.country = country;
     }
-
     public double getCost() {
         return cost;
     }

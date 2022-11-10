@@ -39,9 +39,7 @@ public class FlowerBouquet {
                 min = arr[l].getLifeSpan();
                 durationOfFlowering = l;
                 }
-
         }
-
         System.out.println("Вы купили букет из " + quantityFlowers + " цветков, стоимостью " + (float)sumBouquet + ", срок стояния букета " + durationOfFlowering);
     }
 }
